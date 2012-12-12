@@ -12,7 +12,7 @@ Testing harness).
 This repo will work on Mac, Linux, or Windows, since all the execution and test
 running takes place on a Debian Virtual Machine, run by VirtualBox/Vagrant.
 
-The VM itself is configured by chef-solo. This ia all handled automatically by
+The VM itself is configured by chef-solo. This is all handled automatically by
 this repo.
 
 
