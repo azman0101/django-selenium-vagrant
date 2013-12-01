@@ -1,6 +1,6 @@
 Vagrant::Config.run do |config|
-  config.vm.box = "vagrant_squeeze_3"
-  config.vm.box_url = "https://dl.dropbox.com/u/5673233/Vagrant%20Boxes/vagrant_squeeze_3.box"
+  config.vm.box = "vagrant_wheezy_3"
+  config.vm.box_url = "http://vagrantboxes.footballradar.com/wheezy64.box"
   config.vm.provision :chef_solo do |chef|
       chef.cookbooks_path = "cookbooks"
       chef.add_recipe("apt")
