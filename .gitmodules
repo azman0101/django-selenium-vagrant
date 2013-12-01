@@ -1,0 +1,3 @@
+[submodule "filedepot"]
+	path = filedepot
+	url = https://github.com/azman0101/filedepot.git

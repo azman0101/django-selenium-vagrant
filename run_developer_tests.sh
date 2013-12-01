@@ -1,7 +1,7 @@
 #!/bin/bash
 # Developer Test Runner
 #
-PROJECT="project"
+PROJECT="filedepot"
 
 echo "Cleaning .pyc files"
 find . -type f -name "*.pyc" -print0 | xargs -r -0 rm

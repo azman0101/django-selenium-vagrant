@@ -6,7 +6,7 @@ import time
 
 from behave.__main__ import main as behave_main
 
-PROJECT = 'project'
+PROJECT = 'filedepot'
 
 
 def run(project):
