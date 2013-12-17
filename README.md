@@ -27,7 +27,7 @@ Installing this VM
 
 3. Clone this repo:
     ```
-    $ git clone git@github.com:mhenwood/django-selenium-vagrant.git
+    $ git clone https://github.com/azman0101/django-selenium-vagrant.git
     ```
 
 4. Vagrant up:
